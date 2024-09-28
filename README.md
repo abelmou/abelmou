@@ -1,7 +1,6 @@
 ![LinkedIn Banner2024](https://github.com/abelmou/abelmou/blob/master/Images/AbelmouAiBanner.png?raw=true)
 
-- 🔭 I’m currently a **Master's student in Artificial Intelligence and Virtual Reality**
-- 🔎 **Looking for a summer internship**
+- 🔭 I’m currently a **Master's student in Artificial Intelligence**
 - 📫 Contact me at: *elmoussaoui.abdelrhafour@gmail.com*
 
 ### &nbsp;🌍 Social links:
