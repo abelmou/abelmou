@@ -4,7 +4,7 @@
 - 📫 Contact me at: *elmoussaoui.abdelrhafour@gmail.com*
 
 ### &nbsp;🌍 Social links:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abelmou)
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abelmou) -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelmou/)
 
 ### &nbsp;⌨ Languages:
